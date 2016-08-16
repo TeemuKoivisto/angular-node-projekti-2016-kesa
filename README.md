@@ -8,7 +8,9 @@ Jos ne eivät kelpaa, aina voi etsiä omia ratkaisuja tai turvautua vaikkapa Yeo
 
 Niillä pitäisi päästä alkuun. Jos ja kun varmaan kysymyksiä tulee, niihin voi löytää vastauksia vanhoista materiaalista, internetistä tai minulta.
 
+## Vanhat kurssisivut
 [k2014](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014)
 [s2015](https://github.com/Kaltsoon/AngularJS-ja-NodeJS-ohjelmointiprojekti-s2015)
 
+## Palautus
 [Kurssipalautus Google-formin kautta.](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfndBvApdQ4rBrUWSBvussd_ICep5n5ithcslduQ31VSj8Cog/viewform)
