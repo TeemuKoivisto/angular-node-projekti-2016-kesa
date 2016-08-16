@@ -27,4 +27,7 @@ Niillä pitäisi päästä alkuun. Jos ja kun varmaan kysymyksiä tulee, niihin 
 [s2015](https://github.com/Kaltsoon/AngularJS-ja-NodeJS-ohjelmointiprojekti-s2015)
 
 ## Palautus
+
+Muistakaa tuntikirjanpito jokaiselta päivältä jolloin teitte töitä! Ja jos on ryhmätyö niin molemmilla on omansa.
+
 [Kurssipalautus Google-formin kautta.](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfndBvApdQ4rBrUWSBvussd_ICep5n5ithcslduQ31VSj8Cog/viewform)
