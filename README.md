@@ -6,6 +6,20 @@ Noh tässä on esimerkki pohjani [Angular](https://github.com/TeemuKoivisto/simp
 
 Jos ne eivät kelpaa, aina voi etsiä omia ratkaisuja tai turvautua vaikkapa Yeomanin [gulp-angular-generaattoriin](https://github.com/Swiip/generator-gulp-angular) tai [Fountainin](https://github.com/FountainJS/generator-fountain-webapp). Omat esimerkkini tein yksinkertaisuutta ajatellen.
 
+HUOM. Jos haluat asentaa Noden koulun koneelle pitää nvm:n asennuksen jälkeen mennä kotikansioon eli Homeen ja editoida ```.bashrc``` filua seuraavasti:
+```bash
+export NVM_DIR="/home/teekoivi/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+```
+
+Muutat muotoon:
+```bash
+export NVM_DIR="/home/ad/fshome6/u6/t/teekoivi/Linux/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+```
+
+Jossa teekoivin korvaat omalla AD-tunnuksellasi. En kyllä tajua miksi nvm:n asennus on alkanut tuolla tavalla temppuilemaan.
+
 Niillä pitäisi päästä alkuun. Jos ja kun varmaan kysymyksiä tulee, niihin voi löytää vastauksia vanhoista materiaalista, internetistä tai minulta.
 
 ## Vanhat kurssisivut
