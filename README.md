@@ -6,7 +6,7 @@ Noh tässä on esimerkki pohjani [Angular](https://github.com/TeemuKoivisto/simp
 
 Jos ne eivät kelpaa, aina voi etsiä omia ratkaisuja tai turvautua vaikkapa Yeomanin [gulp-angular-generaattoriin](https://github.com/Swiip/generator-gulp-angular) tai [Fountainin](https://github.com/FountainJS/generator-fountain-webapp). Omat esimerkkini tein yksinkertaisuutta ajatellen.
 
-HUOM. Jos haluat asentaa Noden koulun koneelle pitää nvm:n asennuksen jälkeen mennä kotikansioon eli Homeen ja editoida ```.bashrc``` filua seuraavasti:
+HUOM. Jos haluat asentaa Noden koulun koneelle tee ensin normi nvm asennus eli ```curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.4/install.sh | bash``` ja sitten ```nvm install node``` tai ```nvm install 6.3.1```. Tämän jälkeen sinun pitää mennä kotikansioon eli Homeen ja editoida ```.bashrc``` filua seuraavasti:
 ```bash
 export NVM_DIR="/home/teekoivi/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
