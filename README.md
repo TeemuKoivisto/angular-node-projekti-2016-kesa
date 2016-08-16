@@ -2,7 +2,7 @@
 
 Säästän tämän repositorion liialta informaatiotulvalta. Eli juuh Angular ja Node, cool. Mitä sit?
 
-Noh tässä on esimerkki pohjani [Angular](https://github.com/TeemuKoivisto/simple-angular-bootstrap) projektiin ja [Node](https://github.com/TeemuKoivisto/simple-node-bootstrap) projektiin.
+Noh tässä on esimerkki pohjani [Angular](https://github.com/TeemuKoivisto/simple-angular-bootstrap) projektiin ja [Node](https://github.com/TeemuKoivisto/simple-node-bootstrap) projektiin. Helpoin tapa kopioida ne itselle on forkkaamalla, toiseksi helpoin on kopiointi ja uuden repon luonti. Kaikki käy.
 
 Jos ne eivät kelpaa, aina voi etsiä omia ratkaisuja tai turvautua vaikkapa Yeomanin [gulp-angular-generaattoriin](https://github.com/Swiip/generator-gulp-angular) tai [Fountainin](https://github.com/FountainJS/generator-fountain-webapp). Omat esimerkkini tein yksinkertaisuutta ajatellen.
 
