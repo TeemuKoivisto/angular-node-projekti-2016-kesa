@@ -36,7 +36,7 @@ Niillä pitäisi päästä alkuun. Jos ja kun varmaan kysymyksiä tulee, niihin 
 [k2014](https://github.com/tuhoojabotti/AngularJS-ohjelmointiprojekti-k2014)
 [s2015](https://github.com/Kaltsoon/AngularJS-ja-NodeJS-ohjelmointiprojekti-s2015)
 
-## Palautus
+## Palautus sunnuntaina 28.8 23:59
 
 Muistakaa tuntikirjanpito jokaiselta päivältä jolloin teitte töitä! Ja jos on ryhmätyö niin molemmilla on omansa.
 
